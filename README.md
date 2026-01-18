@@ -1,3 +1,3 @@
-HEllo There
+Hello There
 We shall be updating this project occassionally so bare with the skills.
-# odin-recipes
+# odin-recipes ltechy(gilbert)
